@@ -5,6 +5,6 @@ asdf
 
 asdfalkdfj vscode
 
-vscode command
+vscode commandP
 
 alalalfaldjflka
